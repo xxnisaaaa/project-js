@@ -7,7 +7,7 @@
 
 body {
   height: 100vh;
-  background: #15173c;
+  background: #000000;
 }
 
 .calculator {
@@ -51,7 +51,7 @@ body {
   padding: 17px;
   border: none;
   background-color: transparent;
-  color: #ffffff;
+  color: #0C090A;
   cursor: pointer;
   border-radius: 5px;
 }
