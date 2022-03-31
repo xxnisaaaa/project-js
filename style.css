@@ -57,7 +57,7 @@ body {
 }
 
 .buttons input[type="button"]:hover {
-  box-shadow: 0 8px 25px #000d2e;
+  box-shadow: 0 8px 25px #C19A6B;
 }
 
 input[type="button"]#equal {
